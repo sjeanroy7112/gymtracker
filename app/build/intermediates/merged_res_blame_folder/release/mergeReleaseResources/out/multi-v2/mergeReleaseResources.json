@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "fr.stephane.suivientrainement.app-release-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\sjeanroy\\OneDrive - ALSMT\\DevAndroid\\GymTracker\\Projet\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "13",
+                        "endColumns": "12",
+                        "endOffsets": "793"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "294",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "1032"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sjeanroy\\OneDrive - ALSMT\\DevAndroid\\GymTracker\\Projet\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,6,2,3,4,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "255,217,55,94,135,177",
+                        "endColumns": "38,37,38,40,41,39",
+                        "endOffsets": "289,250,89,130,172,212"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,94,132,171,212,254",
+                        "endColumns": "38,37,38,40,41,39",
+                        "endOffsets": "89,127,166,207,249,289"
+                    }
+                }
+            ]
+        }
+    ]
+}

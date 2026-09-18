@@ -1,0 +1,139 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="fr.stephane.suivientrainement"
+4    android:versionCode="45"
+5    android:versionName="4.5" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:4:5-67
+11-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission
+12-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:5:5-95
+13        android:name="android.permission.BLUETOOTH"
+13-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:5:22-65
+14        android:maxSdkVersion="30" />
+14-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:5:66-92
+15    <uses-permission
+15-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:6:5-101
+16        android:name="android.permission.BLUETOOTH_ADMIN"
+16-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:6:22-71
+17        android:maxSdkVersion="30" />
+17-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:6:72-98
+18    <uses-permission
+18-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:7:5-120
+19        android:name="android.permission.BLUETOOTH_SCAN"
+19-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:7:22-70
+20        android:usesPermissionFlags="neverForLocation" />
+20-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:7:71-117
+21    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+21-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:8:5-76
+21-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:8:22-73
+22    <uses-permission android:name="android.permission.VIBRATE" />
+22-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:9:5-66
+22-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:9:22-63
+23    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+23-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:10:5-79
+23-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:10:22-76
+24    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+24-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:11:5-79
+24-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:11:22-76
+25    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+25-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:12:5-77
+25-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:12:22-74
+26    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_LOCATION" />
+26-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:13:5-86
+26-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:13:22-83
+27    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_HEALTH" />
+27-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:14:5-84
+27-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:14:22-81
+28    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+28-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:15:5-77
+28-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:15:22-74
+29    <uses-permission android:name="android.permission.health.READ_STEPS" />
+29-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:16:5-76
+29-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:16:22-73
+30    <uses-permission android:name="android.permission.health.READ_HEART_RATE" />
+30-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:17:5-81
+30-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:17:22-78
+31    <uses-permission android:name="android.permission.health.READ_ACTIVE_CALORIES_BURNED" />
+31-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:18:5-93
+31-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:18:22-90
+32    <uses-permission android:name="android.permission.health.READ_DISTANCE" />
+32-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:19:5-79
+32-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:19:22-76
+33    <uses-permission android:name="android.permission.health.READ_SPEED" />
+33-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:20:5-76
+33-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:20:22-73
+34
+35    <application
+35-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:21:5-45:19
+36        android:allowBackup="true"
+36-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:22:9-35
+37        android:extractNativeLibs="false"
+38        android:icon="@drawable/ic_launcher"
+38-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:24:9-45
+39        android:label="Suivi Entraînement"
+39-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:25:9-43
+40        android:supportsRtl="true"
+40-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:26:9-35
+41        android:theme="@style/AppTheme"
+41-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:27:9-40
+42        android:usesCleartextTraffic="false" >
+42-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:23:9-45
+43        <service
+43-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:28:9-124
+44            android:name="fr.stephane.suivientrainement.RunningService"
+44-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:28:18-48
+45            android:exported="false"
+45-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:28:49-73
+46            android:foregroundServiceType="location|health" />
+46-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:28:74-121
+47
+48        <activity
+48-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:29:9-38:20
+49            android:name="fr.stephane.suivientrainement.MainActivity"
+49-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:30:13-41
+50            android:exported="true"
+50-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:31:13-36
+51            android:screenOrientation="portrait"
+51-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:33:13-49
+52            android:windowSoftInputMode="adjustResize" >
+52-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:32:13-55
+53            <intent-filter>
+53-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:34:13-37:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:35:17-69
+54-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:35:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:36:17-77
+56-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:36:27-74
+57            </intent-filter>
+58        </activity>
+59
+60        <activity-alias
+60-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:39:9-44:26
+61            android:name="fr.stephane.suivientrainement.HealthPermissionsUsage"
+61-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:39:25-63
+62            android:exported="true"
+62-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:39:103-126
+63            android:targetActivity="fr.stephane.suivientrainement.MainActivity" >
+63-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:39:64-102
+64            <intent-filter>
+64-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:40:13-43:29
+65                <action android:name="android.intent.action.VIEW_PERMISSION_USAGE" />
+65-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:41:17-86
+65-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:41:25-83
+66
+67                <category android:name="android.intent.category.HEALTH_PERMISSIONS" />
+67-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:42:17-87
+67-->C:\Users\sjeanroy\OneDrive - ALSMT\DevAndroid\GymTracker\Projet\app\src\main\AndroidManifest.xml:42:27-84
+68            </intent-filter>
+69        </activity-alias>
+70    </application>
+71
+72</manifest>

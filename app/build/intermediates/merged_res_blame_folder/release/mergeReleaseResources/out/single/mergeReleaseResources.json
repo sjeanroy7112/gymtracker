@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_low_row.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_low_row.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_abdominal.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_abdominal.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_triceps_press.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_triceps_press.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_hip_adductor.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_hip_adductor.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_torso_rotation.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_torso_rotation.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_biceps_curl.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_biceps_curl.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_shoulder_press.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_shoulder_press.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_seated_row.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_seated_row.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_lateral_raise.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_lateral_raise.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_triceps.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_triceps.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_leg_press.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_leg_press.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_back_extension.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_back_extension.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_hip_abductor.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_hip_abductor.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_chest_press.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_chest_press.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_arm_curl.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_arm_curl.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_calf_extension.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_calf_extension.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_treadmill.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_treadmill.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_prone_leg_curl.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_prone_leg_curl.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_rower.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_rower.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_leg_extension.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_leg_extension.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_vertical_press.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_vertical_press.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable_ic_launcher.xml.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_glute.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_glute.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_lat_pulldown.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_lat_pulldown.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_seated_leg_curl.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_seated_leg_curl.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_incline_chest_press.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_incline_chest_press.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_pec_fly.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_pec_fly.jpg"
+    },
+    {
+        "merged": "fr.stephane.suivientrainement.app-release-4:/drawable-nodpi_machine_knee_raise.jpg.flat",
+        "source": "fr.stephane.suivientrainement.app-main-5:/drawable-nodpi/machine_knee_raise.jpg"
+    }
+]

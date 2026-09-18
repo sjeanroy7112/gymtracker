@@ -1,0 +1,37 @@
+R_DEF: Internal format may change without notice
+local
+color done
+color ink
+color navy
+color orange
+color surface
+color white
+drawable ic_launcher
+drawable machine_abdominal
+drawable machine_arm_curl
+drawable machine_back_extension
+drawable machine_biceps_curl
+drawable machine_calf_extension
+drawable machine_chest_press
+drawable machine_glute
+drawable machine_hip_abductor
+drawable machine_hip_adductor
+drawable machine_incline_chest_press
+drawable machine_knee_raise
+drawable machine_lat_pulldown
+drawable machine_lateral_raise
+drawable machine_leg_extension
+drawable machine_leg_press
+drawable machine_low_row
+drawable machine_pec_fly
+drawable machine_prone_leg_curl
+drawable machine_rower
+drawable machine_seated_leg_curl
+drawable machine_seated_row
+drawable machine_shoulder_press
+drawable machine_torso_rotation
+drawable machine_treadmill
+drawable machine_triceps
+drawable machine_triceps_press
+drawable machine_vertical_press
+style AppTheme
